@@ -1,4 +1,4 @@
 # atto
-The Atto Project
+The Atto Project.
 
 License: `MIT`
